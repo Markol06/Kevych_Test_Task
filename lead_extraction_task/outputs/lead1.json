@@ -1,0 +1,16 @@
+{
+  "company_name": "Acme Innovations",
+  "location": "Austin, TX",
+  "year_founded": 2018,
+  "contact_name": "John Doe",
+  "contact_position": "Head of Business Development",
+  "contact_email": "john.doe@acmeinnovations.com",
+  "website": null,
+  "industry": "Technology",
+  "products_or_services": "Cloud-native application development and IoT solutions for the logistics sector.",
+  "age": 7,
+  "summary": "Acme Innovations is a tech firm based in Austin, TX, focusing on cloud-native application development and IoT solutions for logistics. Founded in 2018, it aims to empower businesses with digital tools.",
+  "business_fit": "High",
+  "potential_use_case": "Acme Innovations could leverage our AI and automation tools to enhance their cloud-native applications and optimize IoT solutions.",
+  "lead_type": "Scale-up"
+}

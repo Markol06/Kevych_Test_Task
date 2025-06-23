@@ -2,7 +2,6 @@ pycache/
 *.py[cod]
 *.pyo
 *.DS_Store
-outputs/
 .env
 .venv/
 .idea/

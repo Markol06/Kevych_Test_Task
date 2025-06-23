@@ -1,0 +1,16 @@
+{
+  "company_name": "Global Ventures Inc.",
+  "location": "New York",
+  "year_founded": 2005,
+  "contact_name": "Mark Johnson",
+  "contact_position": "CTO",
+  "contact_email": "info@globalventures.com",
+  "website": null,
+  "industry": "FinTech",
+  "products_or_services": "Bespoke software solutions focusing on secure payment gateways and algorithmic trading platforms.",
+  "age": 20,
+  "summary": "Global Ventures Inc. is a prominent FinTech company based in New York, specializing in secure payment gateways and algorithmic trading platforms.",
+  "business_fit": "High",
+  "potential_use_case": "This company might benefit from AI tools to enhance their algorithmic trading platforms and improve payment security through advanced data analytics.",
+  "lead_type": "Enterprise"
+}
